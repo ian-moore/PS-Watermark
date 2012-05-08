@@ -9,7 +9,8 @@ Zip Archive of all files available here: (coming soon)
 
 ### To use the demo
 
-    1. Create a folder of only images, at least medium sized photos for best results. Use as many or as few images as you would like to try.
+    1. Create a folder of only images, at least medium sized photos for best results. 
+	Use as many or as few images as you would like to try.
 
     2. Create another empty folder to easily locate the saved images after processing.
 
